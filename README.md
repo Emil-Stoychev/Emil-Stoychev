@@ -18,6 +18,9 @@
 
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0.
 
+## 🔭 Projects
+
+💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - https://github.com/Emil-Stoychev/Online-Training-Schedule
 
 ## 🛠 Languages and Tools:
 
