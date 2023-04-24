@@ -19,17 +19,17 @@
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0. 
   
   <div>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/157629?code=df436379" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/154737?code=21609760" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/152826?code=fd349be9" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/147172?code=88a092b0" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/142643?code=8f5ba5be" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/140679?code=660541f4" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/137134?code=89e333ef" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/130257?code=12ecb1a0" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/126603?code=7378db09" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/119793?code=ac2bee14" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/109576?code=6c2145ff" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050281-62aae5ba-1e91-459c-ad49-bc23bca93ae3.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050532-29f9c689-366c-497c-8dea-977beea2fb33.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050658-23841792-4acc-434e-83fc-799c573dc098.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050763-ddc68400-256a-4cc5-a891-f13f98f8de84.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050868-4c760378-2204-4850-a55d-c548088e0945.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234050959-1412d6ab-5614-45df-9a14-049d924ed5d0.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234051043-03961c9d-89bf-4389-bf3a-e61cce22bf2a.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234051118-56300d94-6f1d-4741-90c2-4d97c05d0af6.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234051188-61f12d23-c7af-496b-9068-85f3a2a8a74a.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234051272-0567e4b0-a105-45ce-b06f-9980011a2df6.jpeg" width="100"/>
+  <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
   
   Linkedin - https://www.linkedin.com/in/emil-stoichev-73333a266/
