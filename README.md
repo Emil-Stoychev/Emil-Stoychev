@@ -18,7 +18,21 @@
 
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0. 
   
-  ![SoftUni](https://softuni.bg/content/images/header/white-vertical-logo-university.svg) -  https://softuni.bg/certificates/details/157629/df436379
+  <div>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/157629?code=df436379" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/154737?code=21609760" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/152826?code=fd349be9" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/147172?code=88a092b0" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/142643?code=8f5ba5be" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/140679?code=660541f4" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/137134?code=89e333ef" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/130257?code=12ecb1a0" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/126603?code=7378db09" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/119793?code=ac2bee14" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/109576?code=6c2145ff" width="100"/>
+  </div>
+  
+  Linkedin - https://www.linkedin.com/in/emil-stoichev-73333a266/
 
 ## 🔭 Projects
 
