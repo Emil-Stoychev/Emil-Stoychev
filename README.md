@@ -38,6 +38,8 @@
 
 💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - https://github.com/Emil-Stoychev/Online-Training-Schedule
 
+🧠 Tic Tac Toe Online - This is a classic online game with three options to play - Create own, Join with code and random room. With interactive design and easy way to play! - https://github.com/Emil-Stoychev/TicTacToe-Online
+
 ## 🛠 Languages and Tools:
 
 <div>
