@@ -32,8 +32,6 @@
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
   
-  Linkedin - https://www.linkedin.com/in/emil-stoichev-73333a266/
-
 ## 🔭 Projects
 
 💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - https://github.com/Emil-Stoychev/Online-Training-Schedule
