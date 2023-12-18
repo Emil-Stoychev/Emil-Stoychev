@@ -31,6 +31,7 @@
   <img src="https://user-images.githubusercontent.com/100524868/234051272-0567e4b0-a105-45ce-b06f-9980011a2df6.jpeg" width="100"/>
   <img src="https://softuni.bg/certificates/certificates/converttoimage/186282?code=fb5e6ac1" width="100"/>
   <img src="https://softuni.bg/certificates/certificates/converttoimage/193720?code=b1728e73" width="100"/>
+  <img src="https://softuni.bg/certificates/certificates/converttoimage/199044?code=18dd40f7" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
   
