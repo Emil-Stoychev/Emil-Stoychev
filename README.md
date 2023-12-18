@@ -29,9 +29,9 @@
   <img src="https://user-images.githubusercontent.com/100524868/234051118-56300d94-6f1d-4741-90c2-4d97c05d0af6.jpeg" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051188-61f12d23-c7af-496b-9068-85f3a2a8a74a.jpeg" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051272-0567e4b0-a105-45ce-b06f-9980011a2df6.jpeg" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/186282?code=fb5e6ac1" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/193720?code=b1728e73" width="100"/>
-  <img src="https://softuni.bg/certificates/certificates/converttoimage/199044?code=18dd40f7" width="100"/>
+  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/bcd29273-6d43-4ff8-85e1-b274414379c2" width="100"/>
+  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/b7009e1c-94c4-40a8-89ab-0f23fefb7dcc" width="100"/>
+  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/bee9f4b0-0148-4ea2-850c-727d122b58a9" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
   
