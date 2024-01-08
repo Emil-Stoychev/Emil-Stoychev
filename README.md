@@ -41,6 +41,8 @@
 
 🧠 Tic Tac Toe Online - This is a classic online game with three options to play - Create own, Join with code and random room. With interactive design and easy way to play! - https://github.com/Emil-Stoychev/TicTacToe-Online
 
+😄 FunnyJokes - our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - https://github.com/Emil-Stoychev/jokes-app
+
 ## 🛠 Languages and Tools:
 
 <div>
