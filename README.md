@@ -43,6 +43,8 @@
 
 😄 FunnyJokes - our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - https://github.com/Emil-Stoychev/jokes-app
 
+🛡️⚔️ Kabu Warrior - an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - https://github.com/Emil-Stoychev/kabu-warrior
+
 ## 🛠 Languages and Tools:
 
 <div>
