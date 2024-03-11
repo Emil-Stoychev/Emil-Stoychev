@@ -45,6 +45,8 @@
 
 🛡️⚔️ Kabu Warrior - an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - https://github.com/Emil-Stoychev/kabu-warrior
 
+🃏 Memory Card Game - where users can start the game, choosing between different difficulty levels: easy (10 cards), normal (20 cards), and hard (30 cards). - https://github.com/Emil-Stoychev/memory-card-game
+
 ## 🛠 Languages and Tools:
 
 <div>
