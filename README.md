@@ -34,18 +34,26 @@
   <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/bee9f4b0-0148-4ea2-850c-727d122b58a9" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
-  
+
+## 👨‍🏫 Professional Experience
+
+### **🖥️ Web Developer at [2create](https://2create.bg)**
+Currently working as a **Web Developer** at [2create](https://2create.bg). I design, develop, and maintain web applications using modern technologies.
+
+### **🎓 Examiner for React & Angular Projects at [Software University (SoftUni)](https://softuni.bg)**
+Serving as an **examiner** for **React** and **Angular** projects at [Software University (SoftUni)](https://softuni.bg). Over the past year, I’ve evaluated numerous student projects, providing feedback and insights.
+
 ## 🔭 Projects
 
-💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - https://github.com/Emil-Stoychev/Online-Training-Schedule
+💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - [Link to project](https://github.com/Emil-Stoychev/Online-Training-Schedule)
 
-🧠 Tic Tac Toe Online - This is a classic online game with three options to play - Create own, Join with code and random room. With interactive design and easy way to play! - https://github.com/Emil-Stoychev/TicTacToe-Online
+🧠 Tic Tac Toe Online - This is a classic online game with three options to play - Create own, Join with code and random room. With interactive design and easy way to play! - [Link to project](https://github.com/Emil-Stoychev/TicTacToe-Online)
 
-😄 FunnyJokes - our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - https://github.com/Emil-Stoychev/jokes-app
+😄 FunnyJokes - our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - [Link to project](https://github.com/Emil-Stoychev/jokes-app)
 
-🛡️⚔️ Kabu Warrior - an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - https://github.com/Emil-Stoychev/kabu-warrior
+🛡️⚔️ Kabu Warrior - an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - [Link to project](https://github.com/Emil-Stoychev/kabu-warrior)
 
-🃏 Memory Card Game - where users can start the game, choosing between different difficulty levels: easy (10 cards), normal (20 cards), and hard (30 cards). - https://github.com/Emil-Stoychev/memory-card-game
+🃏 Memory Card Game - where users can start the game, choosing between different difficulty levels: easy (10 cards), normal (20 cards), and hard (30 cards). - [Link to project](https://github.com/Emil-Stoychev/memory-card-game)
 
 ## 🛠 Languages and Tools:
 
@@ -78,6 +86,25 @@
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-51A0D5?style=for-the-badge&logo=responsive&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 </div>
+
+---
+
+## 🚀 Skills & Attributes:
+
+### **🗣️ Communication Skills**
+> I excel in articulating complex technical concepts in a clear and concise manner, ensuring effective collaboration with team members and stakeholders.
+
+### **🔄 Project Flexibility**
+> Proven ability to adapt to changing project requirements and environments. I embrace challenges and find innovative solutions to meet project goals.
+
+### **✅ Task-Oriented**
+> Highly organized and detail-oriented. I prioritize tasks effectively and strive to deliver high-quality results within deadlines.
+
+### **🎯 Commitment to Excellence**
+> Dedicated to exceeding expectations. I consistently seek opportunities to improve processes and achieve outstanding results.
+
+### 🔧 Problem-Solving Approach
+> Proactive in identifying issues, I employ a systematic approach to problem-solving, including thorough research, iterative testing, and refining solutions based on feedback.
 
 ---
 
