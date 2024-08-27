@@ -109,7 +109,15 @@ Serving as an **examiner** for **React** and **Angular** projects at [Software U
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emil-Stoychev&theme=react&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+## :fire: My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Stoychev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <a href="https://github.com/Emil-Stoychev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Stoychev&layout=compact&theme=dark" width="320" height="auto" />
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Emil-Stoychev&theme=radical&hide_border=true" width="450" height="auto" />
+  </a>
+</div>
+
