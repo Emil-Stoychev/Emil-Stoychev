@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me :
 
-  👦 I am Emil Stoychev (Emo), I am 21 years old from Bulgaria. 🇧🇬
+  👦 I am Emil Stoychev (Emo), I am 22 years old from Bulgaria. 🇧🇬
 
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0. 
   
