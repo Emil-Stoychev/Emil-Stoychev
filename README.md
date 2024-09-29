@@ -16,7 +16,7 @@
 
   👦 I am Emil Stoychev (Emo), I am 22 years old from Bulgaria. 🇧🇬
 
-  🎓 I graduated from Software University in February 2023 with a 6.0/6.0. 
+  🎓 I graduated from Software University in February 2023 with a 6.0/6.0. [My Story](https://softuni.bg/blog/softuni-success-story-2024-emil-stoychev)
   
   <div>
   <img src="https://user-images.githubusercontent.com/100524868/234050281-62aae5ba-1e91-459c-ad49-bc23bca93ae3.jpeg" width="100"/>
