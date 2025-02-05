@@ -19,19 +19,6 @@
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0. [My Story](https://softuni.bg/blog/softuni-success-story-2024-emil-stoychev)
   
   <div>
-  <img src="https://user-images.githubusercontent.com/100524868/234050281-62aae5ba-1e91-459c-ad49-bc23bca93ae3.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234050532-29f9c689-366c-497c-8dea-977beea2fb33.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234050658-23841792-4acc-434e-83fc-799c573dc098.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234050763-ddc68400-256a-4cc5-a891-f13f98f8de84.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234050868-4c760378-2204-4850-a55d-c548088e0945.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234050959-1412d6ab-5614-45df-9a14-049d924ed5d0.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234051043-03961c9d-89bf-4389-bf3a-e61cce22bf2a.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234051118-56300d94-6f1d-4741-90c2-4d97c05d0af6.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234051188-61f12d23-c7af-496b-9068-85f3a2a8a74a.jpeg" width="100"/>
-  <img src="https://user-images.githubusercontent.com/100524868/234051272-0567e4b0-a105-45ce-b06f-9980011a2df6.jpeg" width="100"/>
-  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/bcd29273-6d43-4ff8-85e1-b274414379c2" width="100"/>
-  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/b7009e1c-94c4-40a8-89ab-0f23fefb7dcc" width="100"/>
-  <img src="https://github.com/Emil-Stoychev/Emil-Stoychev/assets/100524868/bee9f4b0-0148-4ea2-850c-727d122b58a9" width="100"/>
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
   </div>
 
@@ -43,7 +30,7 @@ Currently working as a **Web Developer** at [2create](https://2create.bg). I des
 ### **🎓 Examiner for React & Angular Projects at [Software University (SoftUni)](https://softuni.bg)**
 Serving as an **examiner** for **React** and **Angular** projects at [Software University (SoftUni)](https://softuni.bg). Over the past year, I’ve evaluated numerous student projects, providing feedback and insights.
 
-## 🔭 Projects
+## 🔭 Projects [My Resume](https://estoychev-resume.vercel.app/)
 
 💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - [Link to project](https://github.com/Emil-Stoychev/Online-Training-Schedule)
 
