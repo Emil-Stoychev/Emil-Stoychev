@@ -127,7 +127,7 @@ Serving as an **examiner** for **React** and **Angular** projects at [Software U
 
 <div align="left">
   <a href="https://github.com/Emil-Stoychev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emil-Stoychev&layout=compact&theme=dark" width="320" height="auto" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Emil-Stoychev&layout=compact&theme=dark&hide_border=true&langs_count=5" width="320" height="auto" />
   </a>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://git.io/streak-stats">
