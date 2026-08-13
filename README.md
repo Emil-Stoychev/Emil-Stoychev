@@ -1,4 +1,5 @@
 # <p align="center">I'm Emil Stoychev</p>
+<p align="center"><i>a.k.a. estoychev</i></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -8,15 +9,25 @@
   <a href="https://www.linkedin.com/in/emil-stoychev-73333a266/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://stoychev.studio">
+    <img src="https://img.shields.io/badge/Stoychev%20Studio-E7A35A?style=for-the-badge" alt="Stoychev Studio Badge"/>
+  </a>
+  <a href="https://www.instagram.com/estoychev_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-  👦 I am Emil Stoychev (Emo), I am 22 years old from Bulgaria. 🇧🇬
+  👦 I am Emil Stoychev (Emo), I am 24 years old from Bulgaria. 🇧🇬 I work as a fullstack developer in Varna — from the first idea to a live product, including hosting and ongoing support.
 
   🎓 I graduated from Software University in February 2023 with a 6.0/6.0. [My Story](https://softuni.bg/blog/softuni-success-story-2024-emil-stoychev)
+
+  🏛️ I also run [Stoychev Studio](https://stoychev.studio), where I design, host, and maintain sites for small businesses, plus my own products like [RouteBG](https://route.bg).
+
+  💬 I work daily with clients in English, ship both solo and in small teams, and like owning a project from first idea to launch and support.
   
   <div>
   <img src="https://user-images.githubusercontent.com/100524868/234051339-0f605e89-acf7-430d-b878-038ccc1f54a4.jpeg" width="100"/>
@@ -24,23 +35,33 @@
 
 ## 👨‍🏫 Professional Experience
 
-### **🖥️ Web Developer at [2create](https://2create.bg)**
-Currently working as a **Web Developer** at [2create](https://2create.bg). I design, develop, and maintain web applications using modern technologies.
+### **🖥️ Fullstack Developer at [2create](https://2create.bg)**
+Currently working as a **Fullstack Developer** at [2create](https://2create.bg) (full-time, on-site in Varna, Bulgaria) since April 2024.
+
+Contributed to **50+ client projects**, including approximately **20–25 built entirely from scratch**, alongside ongoing feature development and bug fixes. Designed, developed, and maintained WordPress websites using **ACF Pro** with a custom section-builder theme, **Gravity Forms**, and **WooCommerce**, including backend work in PHP.
+
+Built fully responsive, pixel-perfect interfaces from **Figma** and **Photoshop** designs using HTML, CSS, Sass (BEM methodology), and Tailwind CSS. Sourced, configured, and customized WordPress plugins, and deployed/maintained client sites on **Hetzner**, **Hostinger**, and **BGHosting** (migrations, updates, FileZilla file management).
+
+Delivered daily written task updates in English directly to clients and proactively proposed improvements to functionality and UX; used AI-assisted tools (**Cursor Pro**) to speed up development. Delivered projects both independently, end-to-end, and as part of collaborative teams of up to 5 developers.
 
 ### **🎓 Examiner for React & Angular Projects at [Software University (SoftUni)](https://softuni.bg)**
 Serving as an **examiner** for **React** and **Angular** projects at [Software University (SoftUni)](https://softuni.bg). Over the past year, I’ve evaluated numerous student projects, providing feedback and insights.
 
 ## 🔭 Projects [My Resume](https://estoychev-resume.vercel.app/)
 
-💪 Training Schedule - GymBuddies - is a Training Schedule project for all people who are engaged in some kind of sport. It can easily create workouts, posts, events and more! - [Link to project](https://github.com/Emil-Stoychev/Online-Training-Schedule)
+🏛️ **Stoychev Studio** — my studio for designing, hosting, and maintaining digital platforms for growing businesses. Custom marketing site plus an admin CMS (React, Go, PostgreSQL) covering projects, services, pricing, leads, and client hosting. - [stoychev.studio](https://stoychev.studio)
 
-🧠 Tic Tac Toe Online - This is a classic online game with three options to play - Create own, Join with code and random room. With interactive design and easy way to play! - [Link to project](https://github.com/Emil-Stoychev/TicTacToe-Online)
+🌄 **RouteBG** — a platform for discovering Bulgaria: interactive map, 6,000+ destinations, GPS/photo-verified visits, community profiles, and a full admin panel. Built with React, Go, PostgreSQL, and PostGIS. - [route.bg](https://route.bg)
 
-😄 FunnyJokes - our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - [Link to project](https://github.com/Emil-Stoychev/jokes-app)
+📷 **Bestoychev Photography** — a photography studio website with bookings, service offers, gallery, blog, and WooCommerce, plus automated Instagram publishing. Custom WordPress theme converted from a Vue.js project. - [bestoychev.com](https://bestoychev.com)
 
-🛡️⚔️ Kabu Warrior - an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - [Link to project](https://github.com/Emil-Stoychev/kabu-warrior)
+✂️ **Imperial Cuts** — a barbershop site in Vratsa with online bookings, team schedules, and working-hours tracking. WordPress with a custom booking plugin (calendar, staff, emails, reminders). - [imperial-cuts.com](https://imperial-cuts.com)
 
-🃏 Memory Card Game - where users can start the game, choosing between different difficulty levels: easy (10 cards), normal (20 cards), and hard (30 cards). - [Link to project](https://github.com/Emil-Stoychev/memory-card-game)
+😄 **FunnyJokes** — our mission is simple: to tickle your funny bone and brighten your day with a carefully curated collection of handpicked jokes. From witty one-liners to clever puns, we've got your daily dose of laughter covered. - [Link to project](https://github.com/Emil-Stoychev/jokes-app)
+
+🛡️⚔️ **Kabu Warrior** — an exhilarating RPG adventure powered by JavaScript and Kaboom.js with Vite. Embark on a thrilling quest where survival is key, and your mission is to free a valiant grandfather's grandson. - [Link to project](https://github.com/Emil-Stoychev/kabu-warrior)
+
+🃏 **Memory Card Game** — where users can start the game, choosing between different difficulty levels: easy (10 cards), normal (20 cards), and hard (30 cards). - [Link to project](https://github.com/Emil-Stoychev/memory-card-game)
 
 ## 🛠 Languages and Tools:
 
@@ -55,7 +76,7 @@ Serving as an **examiner** for **React** and **Angular** projects at [Software U
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -63,11 +84,17 @@ Serving as an **examiner** for **React** and **Angular** projects at [Software U
 ![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Pinia](https://img.shields.io/badge/Pinia-%23E75A7C?style=for-the-badge&logo=vue.js&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%237F54B3.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![ACF](https://img.shields.io/badge/ACF%20Pro-00D3A9?style=for-the-badge)
+![Gravity Forms](https://img.shields.io/badge/Gravity%20Forms-F15A29?style=for-the-badge)
+![CMS](https://img.shields.io/badge/CMS-5A5A5A?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF6C37?style=for-the-badge&logo=browserstack&logoColor=white)
@@ -107,4 +134,3 @@ Serving as an **examiner** for **React** and **Angular** projects at [Software U
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Emil-Stoychev&theme=radical&hide_border=true" width="450" height="auto" />
   </a>
 </div>
-
